@@ -1,5 +1,8 @@
 package lecture3_jon
 
+/*
+In this function we are using recursion in getting the sum
+*/
 func nSum(n int) int {
 	if n <= 1 {
 		return n
@@ -8,6 +11,9 @@ func nSum(n int) int {
 	}
 }
 
+/*
+Use dynamic programming to sum the n
+*/
 func nSumDp(n int) int {
 	dp := make([]int, n+1)
 	dp[0] = 0
