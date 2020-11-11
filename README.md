@@ -16,3 +16,8 @@ To solve a structure we can leverage the substructure.
 ### Overlapping Subproblems
 Easy example is fibonaci. To solve fibonaci(n) we just need to use fibonaci(n-1) + fibonaci(n-2).
 
+# Lecture 3 Notes
+Dynamic programming can solve these two types of problems:
+* Combinatoric problems: answer how many
+* Optimization probelm: maximize/minimize
+
