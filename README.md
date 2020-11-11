@@ -21,3 +21,9 @@ Dynamic programming can solve these two types of problems:
 * Combinatoric problems: answer how many
 * Optimization probelm: maximize/minimize
 
+# Lecture 4 Notes
+1. Define objective function
+1. Identifying the base cases
+1. Recurrence relation
+1. Order of computation
+1. Location of the answer
